@@ -1,1 +1,2 @@
 # ea
+# k-means + isodata
